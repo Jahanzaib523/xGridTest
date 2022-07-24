@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test_Xgrid</string>
+    <string name="name">John Doe</string>
+    <string name="email">John.Doe@example.com</string>
+    <string name="upgrade">Upgrade to PRO</string>
+    <string name="privacy">Privacy</string>
+    <string name="history">Purchase History</string>
+    <string name="help">Help and Support</string>
+    <string name="setting">Setting</string>
+    <string name="invite">Invite a Friend</string>
+</resources>
